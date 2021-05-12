@@ -1,7 +1,7 @@
 # <div align=”center”>ARYA TRI PUTRA MAJIAH </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aryatriputram/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aryatriputram/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aryatriputram/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## TOOLS
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078d6)
