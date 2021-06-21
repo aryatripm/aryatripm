@@ -12,3 +12,4 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/aryatriputram)  
+
