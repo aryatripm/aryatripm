@@ -9,7 +9,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=aryatriputram&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/aryatriputram/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryatriputram&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/aryatriputram/github-readme-stats)
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryatriputram&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+(https://github.com/anuraghazra/github-readme-stats) 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/aryatriputram)  
 
